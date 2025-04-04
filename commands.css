@@ -187,9 +187,6 @@ nav ul li a:hover, .active {
     transition: transform 0.3s ease;
 }
 
-.logo img:hover {
-    transform: rotate(360deg); /* Rotire la hover */
-}
 
 /* Hero Section */
 .hero {
