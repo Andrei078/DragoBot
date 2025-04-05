@@ -171,13 +171,6 @@ nav ul li a:hover, .active {
     opacity: 1; /* Opacitate completă pentru placeholder */
 }
 
-.logo h1 {
-    position: absolute;
-    top: 30%;
-    width: 50px;
-    right: 93%;
-}
-
 /* Animație pentru logo */
 .logo img {
     position: absolute;
